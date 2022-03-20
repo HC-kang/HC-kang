@@ -1,5 +1,4 @@
 ### 👋Hi, I'm Heechan
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-5CCF49?style=flat-square&logo=Node.js&logoColor=white"/></a> 
@@ -18,6 +17,7 @@
 ### Stats and Most Used Langauges
   ![HC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **HC-kang/HC-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
