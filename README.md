@@ -44,7 +44,7 @@
 
 ### Contact me
 <p>
-  <a href="hthttps://hc-kang.tistory.com/" target="_blank">
+  <a href="https://hc-kang.tistory.com/" target="_blank">
     <img 
          src="https://img.shields.io/badge/Blog-333333?style=flat-square&logoColor=white" 
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
