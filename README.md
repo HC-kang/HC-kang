@@ -13,8 +13,7 @@
 </p>
 
 ### HC-kang
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning `Python`, `ML/AL`, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -33,9 +32,15 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark" height="150px"/>
 
-  <a href="hthttps://hc-kang.tistory.com/"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=151515&hide=jupyter%20notebook,c%2B%2B,C,html&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats" height="150px"/></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=151515&hide=jupyter%20notebook,c%2B%2B,C,html&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats" height="150px"/></a>
 </p>
 
+### Contact me
+<p>
+  <a href="hthttps://hc-kang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:weston0713@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sherrygelato.lab@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/h.c.17352"><img src="http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://instagram.com/seeeeeui" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+</p>
 
 <!--
 **HC-kang/HC-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
