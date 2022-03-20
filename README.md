@@ -1,8 +1,6 @@
 ### 👋Hi, I'm Heechan
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <p align="left">
-  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang%2FHC-kang&count_bg=%234DA5FF&title_bg=%23767676&title=hits&edge_flat=false"/>
-  <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-5CCF49?style=flat-square&logo=Node.js&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/MySQL-43B6EF?style=flat-square&logo=Mysql&logoColor=white"/></a> 
