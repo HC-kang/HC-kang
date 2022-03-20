@@ -17,7 +17,7 @@
 - ...
 
 ### Stats and Most Used Langauges
-  ![HC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=radical)
+  ![HC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark)
 <div align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=HC-kang&hide=stars&count_private=true&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
