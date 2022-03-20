@@ -1,7 +1,7 @@
 ### 👋Hi, I'm Heechan
 
 <p align="left">
-  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoo5717%2Fsoo5717&count_bg=%234DA5FF&title_bg=%23767676&title=hits&edge_flat=false"/>
+  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang%2FHC-kang&count_bg=%234DA5FF&title_bg=%23767676&title=hits&edge_flat=false"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-5CCF49?style=flat-square&logo=Node.js&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/MySQL-43B6EF?style=flat-square&logo=Mysql&logoColor=white"/></a> 
