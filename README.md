@@ -13,7 +13,11 @@
 </p>
 
 ### HC-kang
-- 🌱 I’m currently learning `Python`, `ML/AL`
+- 🌱 `Python`, `ML/DL`을 위주로 IT 전반을 공부중입니다.
+- 🪖 5년간 육군 장교로 복무하며, `다양한 경험`을 했습니다.
+- 🎓 `성장하는 팀`의 일원으로써 조직을 움직이는것에 큰 가치를 느낍니다!
+
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -44,11 +48,6 @@
 
 ### Contact me
 <p>
-  <a href="https://hc-kang.tistory.com/" target="_blank">
-    <img 
-         src="https://img.shields.io/badge/Blog-333333?style=flat-square&logoColor=white" 
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
   <a href="mailto:weston0713@gmail.com" target="_blank">
     <img 
          src="https://img.shields.io/badge/weston0713@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white" 
@@ -56,6 +55,11 @@
   <a href="https://instagram.com/h.c.17352">
     <img 
          src="http://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/h.c.17352" 
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://hc-kang.tistory.com/" target="_blank">
+    <img 
+         src="https://img.shields.io/badge/Blog-333333?style=flat-square&logoColor=white" 
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 </p>
