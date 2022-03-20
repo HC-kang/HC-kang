@@ -17,9 +17,9 @@
 ### Stats and Most Used Langauges
 <!--   ![HC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark) -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark" height="150px"/>
 
-<a href="hthttps://hc-kang.tistory.com/"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=151515&hide=jupyter%20notebook,c%2B%2B,C,html&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats"/></a>
+<a href="hthttps://hc-kang.tistory.com/"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=151515&hide=jupyter%20notebook,c%2B%2B,C,html&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats" height="150px"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
