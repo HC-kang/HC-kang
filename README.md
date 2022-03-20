@@ -5,9 +5,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-5CCF49?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/MySQL-43B6EF?style=flat-square&logo=Mysql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-43B6EF?style=flat-square&logo=Mysql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
