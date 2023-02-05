@@ -4,16 +4,17 @@
 </div>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Node.js-5CCF49?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-43B6EF?style=flat-square&logo=Mysql&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Node.js-7EC728?style=flat-square&logo=Node.js&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/PHP-7377AE?style=flat-square&logo=Php&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Laravel-F82B1E?style=flat-square&logo=Laravel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-035D86?style=flat-square&logo=Mysql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
 ### HC-kang
-- 🌱 `Python`, `JavaScript` 및 `ML/DL`을 위주로 IT 전반을 공부중입니다.
+- 🌱 `Python`, `JavaScript` 및 `PHP`을 주로 사용하는 백엔드 개발자입니다.
 - 🪖 5년간 육군 장교로 복무하며, `다양한 경험`을 했습니다.
 - 🎓 `성장하는 팀`의 일원으로써 조직을 움직이는것에 큰 가치를 느낍니다!
 
