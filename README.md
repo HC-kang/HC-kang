@@ -3,34 +3,21 @@
   <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
 </div>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Node.js-7EC728?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/PHP-7377AE?style=flat-square&logo=Php&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Laravel-F82B1E?style=flat-square&logo=Laravel&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-035D86?style=flat-square&logo=Mysql&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squaree&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=Php&logoColor=white"/>
+  </br>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F??style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F82B1E?style=flat-square&logo=Laravel&logoColor=white"/>
 </p>
 
 ### HC-kang
-- 🌱 `Python`, `JavaScript` 및 `PHP`을 주로 사용하는 백엔드 개발자입니다.
-- 🪖 5년간 육군 장교로 복무하며, `다양한 경험`을 했습니다.
-- 🎓 `성장하는 팀`의 일원으로써 조직을 움직이는것에 큰 가치를 느낍니다!
-
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
-### Projects
-- ...
-
-### Activities  
-- ... -->
+- 🌱 I am a BE developer who likes `Python`, `JavaScript`, and `PHP`.
+- 🪖 Before I became a Dev, served as an *ROK Army* officer for about a year and retired as a *CPT*.
+- 🎓 Value being a member of a "Growing team" and moving the organization forward.
 
 
 ### Stats and Most Used Langauges
