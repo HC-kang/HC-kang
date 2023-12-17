@@ -44,7 +44,7 @@
          src="http://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/h.c.17352" 
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
-  <a href="https://hc-kang.tistory.com/" target="_blank">
+  <a href="https://velog.io/@hc-kang" target="_blank">
     <img 
          src="https://img.shields.io/badge/Blog-333333?style=flat-square&logoColor=white" 
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
