@@ -3,8 +3,8 @@
   <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
 </div>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squaree&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=Php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   </br>
@@ -14,8 +14,8 @@
 </p>
 
 ### HC-kang
-- 🌱 I am a BE developer who likes `Python`, `JavaScript`, and `PHP`.
-- 🪖 Before I became a Dev, served as an *ROK Army* officer for about a year and retired as a *CPT*.
+- 👨‍💻 I am a BE developer who likes `TypeScript`, `Python`, and `PHP`.
+- 🪖 Before I became a Dev, served as an *ROK Army* officer for about five years and retired as a *CPT*.
 - 🎓 Value being a member of a "Growing team" and moving the organization forward.
 
 
