@@ -14,10 +14,9 @@
 </p>
 
 ### HC-kang
-- 👨‍💻 I am a BE developer who likes `TypeScript`, `Python`, and `PHP`.
-- 🪖 Before I became a Dev, served as an *ROK Army* officer for about five years and retired as a *CPT*.
-- 🎓 Value being a member of a "Growing team" and moving the organization forward.
-
+- 👨‍💻 I am a backend developer with a passion for JS/TS, Python, and PHP.
+- 🪖 Before transitioning to development, I served as an officer in the ROK Army for about five years, retiring as a captain.
+- 🎓 I value being part of a “growing team” and contributing to the advancement of the organization.
 
 ### Stats and Most Used Langauges
 
