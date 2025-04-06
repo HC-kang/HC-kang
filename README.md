@@ -1,28 +1,22 @@
-# 👋 Hi, I'm Heechan
-
-<div>
-  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHC-kang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
-</div>
+# Hi, I'm Heechan
 
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=Php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=Nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/>
 </p>
 
-## 👨‍💻 About Me
-- Backend developer with a passion for JS/TS, Python, and PHP
+## About Me
+- Backend developer with a passion for JS/TS, Python
 - Former ROK Army officer (retired as captain) with 5 years of service 🪖
 - Committed to being part of a "growing team" and driving organizational advancement 🎯
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HC-kang&show_icons=true&theme=dark"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-kang&langs_count=4&layout=compact&bg_color=151515&hide=jupyter%20notebook,c%2B%2B,C,html&title_color=fff&text_color=fff"/>
